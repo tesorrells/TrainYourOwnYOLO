@@ -1,0 +1,96 @@
+C:\Users\trevo\PycharmProjects\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\00000004.jpg 30,84,292,259,0
+C:\Users\trevo\PycharmProjects\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\00000000.jpg 30,43,251,172,0
+C:\Users\trevo\PycharmProjects\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\00000001.jpeg 841,455,5206,3044,0
+C:\Users\trevo\PycharmProjects\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\00000002.jpg 37,63,1186,762,0
+C:\Users\trevo\PycharmProjects\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\00000003.jpg 10,17,1182,786,0
+C:\Users\trevo\PycharmProjects\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\00000007.jpg 77,50,300,150,0
+C:\Users\trevo\PycharmProjects\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\00000006.jpg 1,71,339,286,0
+C:\Users\trevo\PycharmProjects\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\00000009.jpg 18,49,475,272,0
+C:\Users\trevo\PycharmProjects\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\00000008.jpg 145,110,1853,842,0
+C:\Users\trevo\PycharmProjects\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\00000005.jpg 213,118,1053,685,0
+C:\Users\trevo\PycharmProjects\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\00001477.jpg 265,17,811,402,0
+C:\Users\trevo\PycharmProjects\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\00000013.jpg 10,76,682,348,0
+C:\Users\trevo\PycharmProjects\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\00000010.jpg 114,132,493,319,0
+C:\Users\trevo\PycharmProjects\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\00000012.jpg 47,62,1108,797,0
+C:\Users\trevo\PycharmProjects\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\00001473.jpg 91,58,590,263,0
+C:\Users\trevo\PycharmProjects\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\00001476.jpg 172,61,300,125,0
+C:\Users\trevo\PycharmProjects\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\00001472.jpg 444,222,609,280,0
+C:\Users\trevo\PycharmProjects\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\00001474.jpg 22,37,709,319,0
+C:\Users\trevo\PycharmProjects\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\00001475.jpg 927,70,1256,252,0
+C:\Users\trevo\PycharmProjects\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\00001471.jpg 310,294,408,338,0
+C:\Users\trevo\PycharmProjects\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\00001467.jpg 136,212,916,654,0
+C:\Users\trevo\PycharmProjects\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\00001468.jpg 76,100,609,393,0
+C:\Users\trevo\PycharmProjects\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\00001469.jpg 101,270,228,326,0 441,274,538,330,0 918,315,1012,353,0 681,313,780,360,0
+C:\Users\trevo\PycharmProjects\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\00001465.jpg 367,91,992,373,0
+C:\Users\trevo\PycharmProjects\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\00001466.jpg 745,207,2556,1397,0
+C:\Users\trevo\PycharmProjects\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\00001460.jpg 159,98,999,616,0
+C:\Users\trevo\PycharmProjects\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\00001459.jpg 212,393,1500,902,0 448,24,1431,371,0
+C:\Users\trevo\PycharmProjects\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\00001452.jpg 0,99,403,237,0 472,217,865,354,0 238,245,537,371,0
+C:\Users\trevo\PycharmProjects\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\00001456.jpg 55,203,172,246,0 27,68,480,227,0
+C:\Users\trevo\PycharmProjects\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\00001451.jpg 210,23,1192,507,0
+C:\Users\trevo\PycharmProjects\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\00001453.jpg 177,35,585,356,0
+C:\Users\trevo\PycharmProjects\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\00001450.jpg 86,43,834,455,0
+C:\Users\trevo\PycharmProjects\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\00001447.jpg 0,185,297,307,0
+C:\Users\trevo\PycharmProjects\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\00001446.jpg 27,1,545,172,0
+C:\Users\trevo\PycharmProjects\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\00001444.jpg 1,70,647,359,0
+C:\Users\trevo\PycharmProjects\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\00001443.jpg 3,3,750,345,0
+C:\Users\trevo\PycharmProjects\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\00001440.jpg 153,84,711,309,0
+C:\Users\trevo\PycharmProjects\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\00001435.jpg 156,176,605,303,0 462,162,600,201,0
+C:\Users\trevo\PycharmProjects\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\00001436.jpg 2,5,988,497,0
+C:\Users\trevo\PycharmProjects\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\00001433.jpg 42,7,476,189,0
+C:\Users\trevo\PycharmProjects\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\00001431.jpg 18,20,1200,654,0
+C:\Users\trevo\PycharmProjects\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\00001428.jpg 27,100,281,223,0
+C:\Users\trevo\PycharmProjects\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\00001415.jpg 5,278,1753,979,0
+C:\Users\trevo\PycharmProjects\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\00001413.jpg 15,14,828,413,0
+C:\Users\trevo\PycharmProjects\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\00001417.jpg 639,370,2503,1055,0
+C:\Users\trevo\PycharmProjects\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\00001399.jpg 199,2,635,233,0
+C:\Users\trevo\PycharmProjects\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\00001411.jpg 163,21,328,86,0 13,112,739,377,0
+C:\Users\trevo\PycharmProjects\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\00001407.jpg 32,26,522,219,0
+C:\Users\trevo\PycharmProjects\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\00001406.jpg 1091,597,1658,808,0
+C:\Users\trevo\PycharmProjects\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\00001395.jpg 19,68,758,362,0
+C:\Users\trevo\PycharmProjects\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\00001397.jpg 14,910,2478,1894,0 3682,665,5339,1605,0
+C:\Users\trevo\PycharmProjects\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\00001387.jpg 107,201,548,344,0 273,116,673,320,0
+C:\Users\trevo\PycharmProjects\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\00001386.jpg 4,126,632,281,0
+C:\Users\trevo\PycharmProjects\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\00001385.jpg 131,93,1073,637,0
+C:\Users\trevo\PycharmProjects\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\00001384.jpg 86,42,1394,754,0
+C:\Users\trevo\PycharmProjects\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\00001383.PNG 86,17,167,48,0 64,136,596,338,0
+C:\Users\trevo\PycharmProjects\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\00001381.jpeg 25,241,740,446,0 39,2,562,238,0
+C:\Users\trevo\PycharmProjects\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\00001377.jpg 77,118,384,322,0
+C:\Users\trevo\PycharmProjects\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\00001366.jpg 0,8,794,428,0
+C:\Users\trevo\PycharmProjects\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\00001374.jpg 104,181,589,479,0
+C:\Users\trevo\PycharmProjects\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\00001369.jpg 66,35,200,95,0
+C:\Users\trevo\PycharmProjects\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\00001364.jpg 0,11,659,394,0
+C:\Users\trevo\PycharmProjects\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\00001355.jpg 146,50,503,369,0
+C:\Users\trevo\PycharmProjects\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\00001357.jpg 72,179,206,240,0
+C:\Users\trevo\PycharmProjects\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\00001352.jpg 405,272,838,517,0
+C:\Users\trevo\PycharmProjects\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\00001340.jpg 14,12,516,231,0
+C:\Users\trevo\PycharmProjects\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\00001345.jpg 136,48,493,228,0
+C:\Users\trevo\PycharmProjects\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\00001350.png 0,11,1179,542,0
+C:\Users\trevo\PycharmProjects\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\00001333.jpg 63,84,2078,814,0
+C:\Users\trevo\PycharmProjects\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\00001329.jpg 13,41,647,319,0
+C:\Users\trevo\PycharmProjects\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\00001332.jpg 3,35,591,442,0
+C:\Users\trevo\PycharmProjects\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\00001335.jpg 33,38,1128,666,0
+C:\Users\trevo\PycharmProjects\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\00001321.jpg 86,284,243,348,0 409,172,587,264,0 593,267,745,324,0 451,387,919,472,0
+C:\Users\trevo\PycharmProjects\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\00001319.jpg 1,2,640,360,0
+C:\Users\trevo\PycharmProjects\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\00001318.jpg 38,44,234,113,0
+C:\Users\trevo\PycharmProjects\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\00001314.jpg 2,21,800,335,0
+C:\Users\trevo\PycharmProjects\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\00001317.jpg 98,211,1581,849,0
+C:\Users\trevo\PycharmProjects\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\00001307.jpg 145,13,564,255,0
+C:\Users\trevo\PycharmProjects\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\00001302.JPG 19,62,634,307,0
+C:\Users\trevo\PycharmProjects\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\00001306.jpg 187,82,833,433,0
+C:\Users\trevo\PycharmProjects\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\00001294.jpg 348,126,891,466,0
+C:\Users\trevo\PycharmProjects\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\00001299.jpg 75,41,663,321,0
+C:\Users\trevo\PycharmProjects\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\00001288.jpg 342,35,739,206,0
+C:\Users\trevo\PycharmProjects\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\00001289.jpg 20,51,640,344,0
+C:\Users\trevo\PycharmProjects\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\00001293.png 2,4,647,315,0
+C:\Users\trevo\PycharmProjects\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\00001282.jpg 365,1,1128,670,0
+C:\Users\trevo\PycharmProjects\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\00001284.jpg 527,178,772,282,0 405,245,635,343,0 162,195,442,323,0 152,206,460,349,0
+C:\Users\trevo\PycharmProjects\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\00001278.jpg 97,184,597,345,0
+C:\Users\trevo\PycharmProjects\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\00001274.jpg 325,207,424,271,0 84,206,168,259,0
+C:\Users\trevo\PycharmProjects\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\00001276.jpg 27,0,1012,303,0
+C:\Users\trevo\PycharmProjects\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\00001266.jpg 59,85,988,504,0
+C:\Users\trevo\PycharmProjects\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\00001263.jpg 184,13,886,307,0
+C:\Users\trevo\PycharmProjects\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\00001269.jpg 11,51,1274,577,0
+C:\Users\trevo\PycharmProjects\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\00001259.jpg 28,65,1008,544,0
+C:\Users\trevo\PycharmProjects\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\00001262.jpg 147,204,529,340,0
+C:\Users\trevo\PycharmProjects\TrainYourOwnYOLO-master\Data\Source_Images\Training_Images\vott-csv-export\00001258.jpg 34,29,969,548,0
