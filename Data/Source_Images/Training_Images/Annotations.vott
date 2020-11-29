@@ -1,0 +1,1893 @@
+{
+    "name": "Annotations",
+    "securityToken": "Annotations Token",
+    "sourceConnection": {
+        "name": "Images",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiOTkyNTAxZDE1MTI5NmQ5NDBmOGE1Y2IyMTgzNzFlZWU0NGVhODFlNTUwYzNmZDRiY2Y5YTcyNmJlYTUwMzk5YjFhYzM2ZjBhNGM3ZDdmNTZiMTdjZGI5Y2MwZWM1MGJmYjY5YzE5MjMxZmMyYTU4MTdkZTNjM2E1ZGY0MzIxZmI0NGZlYmQ5MzNjNmI2NjFkMWRjNjAwZWYzNTQ4NWNhYjgxODRmYmIzY2EwOWUyNzYwMDE0MThlMGFhMmYzMjFlNjFiZWI3YTMyYWY4MGEzOTM4YWQ4NjE0ZjU2MjFmZDgzYjVmYjgxYzU0ZjFkNGM3ZDhmMGNhMTc5ZmY4NzI0MyIsIml2IjoiYTE3YWM2MWNiYTBhMzNmZWMyYzUzNTVmOTk4NmFmYWZiNWIxNWNmODVkMDhhNmVhIn0="
+        },
+        "id": "XtQkcRfoA"
+    },
+    "targetConnection": {
+        "name": "Images",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiNDM5ZWM3Y2YxYWNjZTVjYzUzYTc4ODZlZTI5ZjE0OGJlYTJhMjMxZTlkOWU1YjA3MzVhNTdlMjMxZWUzNmQ0NjMzYWM1OTc0M2VmNjBiMjVjYzQyMGY4MjFjYWVkYWZjNDNjYjMwMmFmOTA5N2U0ZDhkYTBhYzkwYWIyZWI5NWY5ZmY3OTU2NGU3ZWM5MmNjZTc1Zjk4MjA0Y2QzMjFiZDk1ODIyYmRjZTBhMDEyYTQ1ZThhZDg5NmVlMjE4YTdlNzc5MDI4NzA3YWMzOTdjOTc1OGUxNmM5Yzc0Zjg5MmZjZjE0MDJlN2QzZjY0ODBkOWJiOTI3N2FhNmJkM2EyNiIsIml2IjoiOWM0NTMyNWY2ODk2NWQxNGNjZjhiOTE5NDUyZjliMTY1NThkNWY3N2EwZDcyZmQyIn0="
+        },
+        "id": "XtQkcRfoA"
+    },
+    "videoSettings": {
+        "frameExtractionRate": 15
+    },
+    "tags": [
+        {
+            "name": "Helicopter",
+            "color": "#5db300"
+        }
+    ],
+    "id": "TyJBk447D",
+    "activeLearningSettings": {
+        "autoDetect": false,
+        "predictTag": true,
+        "modelPathType": "coco"
+    },
+    "exportFormat": {
+        "providerType": "csv",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiNDI5NzliODAwZmE2MTZhMDk0ZDQ1MWFhYTFjZGM3M2I1YjEyMTUzNGUzODUwOGY5NTUwZmU5YzAyZmVmNThjNjI0MTk3NjYwMDY1MzQ0MDNlZGQyYTVjM2FmZWYzNjllIiwiaXYiOiIzNTdmMDFkZGExMzU1OTljNzAwNTVjMTkzMDk1MWI5Njk1NTEyMWU0YTgyOTc4MmEifQ=="
+        }
+    },
+    "version": "2.2.0",
+    "lastVisitedAssetId": "bb26cc4db8ed28c9e389b8abce51ab36",
+    "assets": {
+        "1d043a68939ef4cc90a2b85cc59669ff": {
+            "format": "jpg",
+            "id": "1d043a68939ef4cc90a2b85cc59669ff",
+            "name": "00000000.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00000000.jpg",
+            "size": {
+                "width": 300,
+                "height": 240
+            },
+            "state": 2,
+            "type": 1
+        },
+        "dc1e9b7265a6564bc5a950ffb5485f7e": {
+            "format": "jpeg",
+            "id": "dc1e9b7265a6564bc5a950ffb5485f7e",
+            "name": "00000001.jpeg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00000001.jpeg",
+            "size": {
+                "width": 5616,
+                "height": 3744
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b2ced91c393ea006654209551bdf8515": {
+            "format": "jpg",
+            "id": "b2ced91c393ea006654209551bdf8515",
+            "name": "00000002.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00000002.jpg",
+            "size": {
+                "width": 1200,
+                "height": 800
+            },
+            "state": 2,
+            "type": 1
+        },
+        "37ca66ee1d8539784e131721d62d6430": {
+            "format": "jpg",
+            "id": "37ca66ee1d8539784e131721d62d6430",
+            "name": "00000003.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00000003.jpg",
+            "size": {
+                "width": 1200,
+                "height": 800
+            },
+            "state": 2,
+            "type": 1
+        },
+        "83ff97c1e73c6f46d4171fd33392b398": {
+            "format": "jpg",
+            "id": "83ff97c1e73c6f46d4171fd33392b398",
+            "name": "00000004.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00000004.jpg",
+            "size": {
+                "width": 340,
+                "height": 340
+            },
+            "state": 2,
+            "type": 1
+        },
+        "82fe12d4d2d18c2c097ca070e96db238": {
+            "format": "jpg",
+            "id": "82fe12d4d2d18c2c097ca070e96db238",
+            "name": "00000005.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00000005.jpg",
+            "size": {
+                "width": 1300,
+                "height": 866
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d38989614e477e04e12647f7d4202cf6": {
+            "format": "jpg",
+            "id": "d38989614e477e04e12647f7d4202cf6",
+            "name": "00000006.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00000006.jpg",
+            "size": {
+                "width": 340,
+                "height": 340
+            },
+            "state": 2,
+            "type": 1
+        },
+        "72933c8223e308d305305ded6e1f99c1": {
+            "format": "jpg",
+            "id": "72933c8223e308d305305ded6e1f99c1",
+            "name": "00000007.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00000007.jpg",
+            "size": {
+                "width": 300,
+                "height": 240
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d6a4afb30cb0364dfd7eff8b26e57844": {
+            "format": "jpg",
+            "id": "d6a4afb30cb0364dfd7eff8b26e57844",
+            "name": "00000008.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00000008.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1011
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3f0de4007ccd4b8c4f2a2eac20ca369f": {
+            "format": "jpg",
+            "id": "3f0de4007ccd4b8c4f2a2eac20ca369f",
+            "name": "00000009.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00000009.jpg",
+            "size": {
+                "width": 480,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b8ee966a7a7a1c25bad6d316354465ba": {
+            "format": "jpg",
+            "id": "b8ee966a7a7a1c25bad6d316354465ba",
+            "name": "00000010.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00000010.jpg",
+            "size": {
+                "width": 852,
+                "height": 480
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9a40088c84b712ba10e9c29d0309b207": {
+            "format": "jpg",
+            "id": "9a40088c84b712ba10e9c29d0309b207",
+            "name": "00000011.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00000011.jpg",
+            "size": {
+                "width": 963,
+                "height": 1080
+            },
+            "state": 1,
+            "type": 1
+        },
+        "b41d9d67703f060425f1c18dc0900606": {
+            "format": "jpg",
+            "id": "b41d9d67703f060425f1c18dc0900606",
+            "name": "00000012.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00000012.jpg",
+            "size": {
+                "width": 1140,
+                "height": 869
+            },
+            "state": 2,
+            "type": 1
+        },
+        "925c909b3761c3e913c46407ac41bab4": {
+            "format": "jpg",
+            "id": "925c909b3761c3e913c46407ac41bab4",
+            "name": "00000013.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00000013.jpg",
+            "size": {
+                "width": 700,
+                "height": 420
+            },
+            "state": 2,
+            "type": 1
+        },
+        "50599aac7dce9177eead7cfeba3eaae7": {
+            "format": "jpg",
+            "id": "50599aac7dce9177eead7cfeba3eaae7",
+            "name": "00001477.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001477.jpg",
+            "size": {
+                "width": 825,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "dcd239269a7d42279d6c9fda23327bea": {
+            "format": "jpg",
+            "id": "dcd239269a7d42279d6c9fda23327bea",
+            "name": "00001476.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001476.jpg",
+            "size": {
+                "width": 669,
+                "height": 446
+            },
+            "state": 2,
+            "type": 1
+        },
+        "07487ad09748c618911700e4980f55bd": {
+            "format": "jpg",
+            "id": "07487ad09748c618911700e4980f55bd",
+            "name": "00001475.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001475.jpg",
+            "size": {
+                "width": 2400,
+                "height": 1200
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7b0cbac4e797bccc013dc296b589545c": {
+            "format": "jpg",
+            "id": "7b0cbac4e797bccc013dc296b589545c",
+            "name": "00001474.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001474.jpg",
+            "size": {
+                "width": 865,
+                "height": 1390
+            },
+            "state": 2,
+            "type": 1
+        },
+        "fa38dbdd88e0fff54b4a38ae90a124e2": {
+            "format": "jpg",
+            "id": "fa38dbdd88e0fff54b4a38ae90a124e2",
+            "name": "00001473.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001473.jpg",
+            "size": {
+                "width": 640,
+                "height": 347
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2803e6657b8be1aac9315f2c04446744": {
+            "format": "jpg",
+            "id": "2803e6657b8be1aac9315f2c04446744",
+            "name": "00001472.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001472.jpg",
+            "size": {
+                "width": 1023,
+                "height": 575
+            },
+            "state": 2,
+            "type": 1
+        },
+        "61ff1e093233b077453b9136b194185b": {
+            "format": "jpg",
+            "id": "61ff1e093233b077453b9136b194185b",
+            "name": "00001471.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001471.jpg",
+            "size": {
+                "width": 1024,
+                "height": 695
+            },
+            "state": 2,
+            "type": 1
+        },
+        "35a07bc0c1dabcd16c6533b80d2f62a0": {
+            "format": "jpg",
+            "id": "35a07bc0c1dabcd16c6533b80d2f62a0",
+            "name": "00001470.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001470.jpg",
+            "size": {
+                "width": 5472,
+                "height": 3648
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a553c2a1e2fe44e7706ea3ce6180661e": {
+            "format": "jpg",
+            "id": "a553c2a1e2fe44e7706ea3ce6180661e",
+            "name": "00001469.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001469.jpg",
+            "size": {
+                "width": 1200,
+                "height": 800
+            },
+            "state": 2,
+            "type": 1
+        },
+        "538912c4132854bbef502451b8121bde": {
+            "format": "jpg",
+            "id": "538912c4132854bbef502451b8121bde",
+            "name": "00001468.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001468.jpg",
+            "size": {
+                "width": 728,
+                "height": 455
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c81009e385075fbd93b1e2a5f0999f45": {
+            "format": "jpg",
+            "id": "c81009e385075fbd93b1e2a5f0999f45",
+            "name": "00001467.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001467.jpg",
+            "size": {
+                "width": 1200,
+                "height": 834
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a2040d129f046a2239819ae89f61157e": {
+            "format": "jpg",
+            "id": "a2040d129f046a2239819ae89f61157e",
+            "name": "00001466.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001466.jpg",
+            "size": {
+                "width": 3290,
+                "height": 1850
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f8a8c7b958a580179734696e3d2cd61c": {
+            "format": "jpg",
+            "id": "f8a8c7b958a580179734696e3d2cd61c",
+            "name": "00001465.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001465.jpg",
+            "size": {
+                "width": 1000,
+                "height": 569
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b042082081c371859c107a94a807e125": {
+            "format": "jpeg",
+            "id": "b042082081c371859c107a94a807e125",
+            "name": "00001464.jpeg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001464.jpeg",
+            "size": {
+                "width": 832,
+                "height": 534
+            },
+            "state": 1,
+            "type": 1
+        },
+        "dd5b8fab8c10087e1bdd4f347a84f670": {
+            "format": "jpg",
+            "id": "dd5b8fab8c10087e1bdd4f347a84f670",
+            "name": "00001463.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001463.jpg",
+            "size": {
+                "width": 3626,
+                "height": 2527
+            },
+            "state": 1,
+            "type": 1
+        },
+        "cbd7918da9f26e5dc1ee0d26b6121793": {
+            "format": "jpg",
+            "id": "cbd7918da9f26e5dc1ee0d26b6121793",
+            "name": "00001462.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001462.jpg",
+            "size": {
+                "width": 480,
+                "height": 360
+            },
+            "state": 1,
+            "type": 1
+        },
+        "b5d60d61a44749eb01c1bd7e5463aa07": {
+            "format": "jpeg",
+            "id": "b5d60d61a44749eb01c1bd7e5463aa07",
+            "name": "00001461.jpeg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001461.jpeg",
+            "size": {
+                "width": 832,
+                "height": 555
+            },
+            "state": 1,
+            "type": 1
+        },
+        "80990286cd8cde81f3fab8c461241c67": {
+            "format": "jpg",
+            "id": "80990286cd8cde81f3fab8c461241c67",
+            "name": "00001460.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001460.jpg",
+            "size": {
+                "width": 1020,
+                "height": 649
+            },
+            "state": 2,
+            "type": 1
+        },
+        "92228c5d68b7326dc855cd6fb7057201": {
+            "format": "jpg",
+            "id": "92228c5d68b7326dc855cd6fb7057201",
+            "name": "00001459.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001459.jpg",
+            "size": {
+                "width": 1800,
+                "height": 960
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1aee6027b79f4714ff82fc5eda79b296": {
+            "format": "jpg",
+            "id": "1aee6027b79f4714ff82fc5eda79b296",
+            "name": "00001458.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001458.jpg",
+            "size": {
+                "width": 460,
+                "height": 259
+            },
+            "state": 1,
+            "type": 1
+        },
+        "f43fd75c8a99aab9f9c09052e2577192": {
+            "format": "jpg",
+            "id": "f43fd75c8a99aab9f9c09052e2577192",
+            "name": "00001457.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001457.jpg",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 1,
+            "type": 1
+        },
+        "73c2bab2033e62cbeb56fe2a7e1c5b3e": {
+            "format": "jpg",
+            "id": "73c2bab2033e62cbeb56fe2a7e1c5b3e",
+            "name": "00001456.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001456.jpg",
+            "size": {
+                "width": 480,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e405c8aacfa09fb4dde63bff5bfe05ea": {
+            "format": "jpg",
+            "id": "e405c8aacfa09fb4dde63bff5bfe05ea",
+            "name": "00001453.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001453.jpg",
+            "size": {
+                "width": 600,
+                "height": 400
+            },
+            "state": 2,
+            "type": 1
+        },
+        "86cb880136e35fad7d1b4709bd94bd2a": {
+            "format": "jpg",
+            "id": "86cb880136e35fad7d1b4709bd94bd2a",
+            "name": "00001454.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001454.jpg",
+            "size": {
+                "width": 1200,
+                "height": 800
+            },
+            "state": 1,
+            "type": 1
+        },
+        "e004acbde43338c5394486865efdfdcc": {
+            "format": "jpg",
+            "id": "e004acbde43338c5394486865efdfdcc",
+            "name": "00001452.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001452.jpg",
+            "size": {
+                "width": 875,
+                "height": 583
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0ea9599083459f2668dcc15b1d92e126": {
+            "format": "jpg",
+            "id": "0ea9599083459f2668dcc15b1d92e126",
+            "name": "00001451.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001451.jpg",
+            "size": {
+                "width": 1200,
+                "height": 671
+            },
+            "state": 2,
+            "type": 1
+        },
+        "03496e13df8d4973be6e34261abfbd5a": {
+            "format": "jpg",
+            "id": "03496e13df8d4973be6e34261abfbd5a",
+            "name": "00001450.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001450.jpg",
+            "size": {
+                "width": 874,
+                "height": 492
+            },
+            "state": 2,
+            "type": 1
+        },
+        "58fc4df8b1435af0691949cf855980cf": {
+            "format": "jpeg",
+            "id": "58fc4df8b1435af0691949cf855980cf",
+            "name": "00001448.jpeg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001448.jpeg",
+            "size": {
+                "width": 832,
+                "height": 584
+            },
+            "state": 1,
+            "type": 1
+        },
+        "21f3384df580606e2e279aedef2ba050": {
+            "format": "jpg",
+            "id": "21f3384df580606e2e279aedef2ba050",
+            "name": "00001447.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001447.jpg",
+            "size": {
+                "width": 620,
+                "height": 464
+            },
+            "state": 2,
+            "type": 1
+        },
+        "033446ebb5fa5d63bde2faeb687afe3c": {
+            "format": "jpg",
+            "id": "033446ebb5fa5d63bde2faeb687afe3c",
+            "name": "00001446.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001446.jpg",
+            "size": {
+                "width": 600,
+                "height": 338
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ea50a11fce1db0a6e4c1719c698c808b": {
+            "format": "jpg",
+            "id": "ea50a11fce1db0a6e4c1719c698c808b",
+            "name": "00001445.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001445.jpg",
+            "size": {
+                "width": 640,
+                "height": 480
+            },
+            "state": 1,
+            "type": 1
+        },
+        "c9b9804dae320ce0d82e2b2724d0aa1c": {
+            "format": "jpg",
+            "id": "c9b9804dae320ce0d82e2b2724d0aa1c",
+            "name": "00001444.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001444.jpg",
+            "size": {
+                "width": 647,
+                "height": 404
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d14e47d67541381aebd041e8164a1aa7": {
+            "format": "jpg",
+            "id": "d14e47d67541381aebd041e8164a1aa7",
+            "name": "00001443.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001443.jpg",
+            "size": {
+                "width": 750,
+                "height": 400
+            },
+            "state": 2,
+            "type": 1
+        },
+        "756cecf9678989fb1bd56348ebcaa463": {
+            "format": "jpg",
+            "id": "756cecf9678989fb1bd56348ebcaa463",
+            "name": "00001442.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001442.jpg",
+            "size": {
+                "width": 875,
+                "height": 583
+            },
+            "state": 1,
+            "type": 1
+        },
+        "6eb70e13153c9bd09f4dbc66c7736d1f": {
+            "format": "jpg",
+            "id": "6eb70e13153c9bd09f4dbc66c7736d1f",
+            "name": "00001441.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001441.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 1,
+            "type": 1
+        },
+        "da2724a0fbd7915643f0b65db77d2b49": {
+            "format": "jpg",
+            "id": "da2724a0fbd7915643f0b65db77d2b49",
+            "name": "00001440.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001440.jpg",
+            "size": {
+                "width": 840,
+                "height": 530
+            },
+            "state": 2,
+            "type": 1
+        },
+        "51112f393423aed9dcdc5536f18b31d7": {
+            "format": "png",
+            "id": "51112f393423aed9dcdc5536f18b31d7",
+            "name": "00001438.png",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001438.png",
+            "size": {
+                "width": 722,
+                "height": 412
+            },
+            "state": 1,
+            "type": 1
+        },
+        "6e37cd05d063bfe048165261fe3a6e37": {
+            "format": "jpg",
+            "id": "6e37cd05d063bfe048165261fe3a6e37",
+            "name": "00001436.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001436.jpg",
+            "size": {
+                "width": 1024,
+                "height": 576
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ae41592491297fc349cf0c0b405e070b": {
+            "format": "jpg",
+            "id": "ae41592491297fc349cf0c0b405e070b",
+            "name": "00001435.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001435.jpg",
+            "size": {
+                "width": 620,
+                "height": 464
+            },
+            "state": 2,
+            "type": 1
+        },
+        "33f34769dd60dcfd6b035c20f0638216": {
+            "format": "jpg",
+            "id": "33f34769dd60dcfd6b035c20f0638216",
+            "name": "00001433.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001433.jpg",
+            "size": {
+                "width": 520,
+                "height": 245
+            },
+            "state": 2,
+            "type": 1
+        },
+        "392d26d8a7e785e7d06a717552cfc6ee": {
+            "format": "jpg",
+            "id": "392d26d8a7e785e7d06a717552cfc6ee",
+            "name": "00001432.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001432.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 1,
+            "type": 1
+        },
+        "9959b2c6e4cc97e596e2283a3f1eccee": {
+            "format": "jpg",
+            "id": "9959b2c6e4cc97e596e2283a3f1eccee",
+            "name": "00001431.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001431.jpg",
+            "size": {
+                "width": 1200,
+                "height": 742
+            },
+            "state": 2,
+            "type": 1
+        },
+        "da7c8cfe9b248a72f93f30299026451d": {
+            "format": "jpeg",
+            "id": "da7c8cfe9b248a72f93f30299026451d",
+            "name": "00001430.jpeg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001430.jpeg",
+            "size": {
+                "width": 832,
+                "height": 620
+            },
+            "state": 1,
+            "type": 1
+        },
+        "ba545f431269dcf692ffe204525fa267": {
+            "format": "jpg",
+            "id": "ba545f431269dcf692ffe204525fa267",
+            "name": "00001429.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001429.jpg",
+            "size": {
+                "width": 720,
+                "height": 506
+            },
+            "state": 1,
+            "type": 1
+        },
+        "c59ba1f93193f569ca364b57ef3f378d": {
+            "format": "jpg",
+            "id": "c59ba1f93193f569ca364b57ef3f378d",
+            "name": "00001428.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001428.jpg",
+            "size": {
+                "width": 550,
+                "height": 303
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c3d6e0b4d7890be8bfcfe2d9568a52ba": {
+            "format": "jpg",
+            "id": "c3d6e0b4d7890be8bfcfe2d9568a52ba",
+            "name": "00001426.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001426.jpg",
+            "size": {
+                "width": 875,
+                "height": 583
+            },
+            "state": 1,
+            "type": 1
+        },
+        "580edf1eb5af404073ac963a7efdb141": {
+            "format": "jpg",
+            "id": "580edf1eb5af404073ac963a7efdb141",
+            "name": "00001425.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001425.jpg",
+            "size": {
+                "width": 1080,
+                "height": 675
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b23ef967a81f753742beff0380cdeb5f": {
+            "format": "jpg",
+            "id": "b23ef967a81f753742beff0380cdeb5f",
+            "name": "00001424.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001424.jpg",
+            "size": {
+                "width": 355,
+                "height": 200
+            },
+            "state": 1,
+            "type": 1
+        },
+        "44b795f7389bff2976780f66eecf8433": {
+            "format": "jpg",
+            "id": "44b795f7389bff2976780f66eecf8433",
+            "name": "00001423.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001423.jpg",
+            "size": {
+                "width": 660,
+                "height": 440
+            },
+            "state": 1,
+            "type": 1
+        },
+        "07282a86b730de1edce76de20d4da254": {
+            "format": "png",
+            "id": "07282a86b730de1edce76de20d4da254",
+            "name": "00001422.png",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001422.png",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 1,
+            "type": 1
+        },
+        "139b13d940632928d619e1f254fb7c05": {
+            "format": "jpg",
+            "id": "139b13d940632928d619e1f254fb7c05",
+            "name": "00001419.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001419.jpg",
+            "size": {
+                "width": 1440,
+                "height": 810
+            },
+            "state": 1,
+            "type": 1
+        },
+        "d043b04059ccd4deaebe04da6aba43b2": {
+            "format": "jpg",
+            "id": "d043b04059ccd4deaebe04da6aba43b2",
+            "name": "00001418.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001418.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 1,
+            "type": 1
+        },
+        "3c3d2dbfa16cf64c5ce83f51ce04417d": {
+            "format": "jpg",
+            "id": "3c3d2dbfa16cf64c5ce83f51ce04417d",
+            "name": "00001417.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001417.jpg",
+            "size": {
+                "width": 2986,
+                "height": 1680
+            },
+            "state": 2,
+            "type": 1
+        },
+        "bd3f707074554297635544428c9d52c0": {
+            "format": "jpg",
+            "id": "bd3f707074554297635544428c9d52c0",
+            "name": "00001416.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001416.jpg",
+            "size": {
+                "width": 1404,
+                "height": 936
+            },
+            "state": 1,
+            "type": 1
+        },
+        "3535a56658290ca59949b96273088156": {
+            "format": "jpg",
+            "id": "3535a56658290ca59949b96273088156",
+            "name": "00001415.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001415.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1280
+            },
+            "state": 2,
+            "type": 1
+        },
+        "666599b6546c459ce961bc70d6ce867c": {
+            "format": "jpg",
+            "id": "666599b6546c459ce961bc70d6ce867c",
+            "name": "00001413.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001413.jpg",
+            "size": {
+                "width": 840,
+                "height": 560
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b9d37884086b81148b34b82dadac024d": {
+            "format": "jpg",
+            "id": "b9d37884086b81148b34b82dadac024d",
+            "name": "00001411.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001411.jpg",
+            "size": {
+                "width": 770,
+                "height": 433
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a84bb4f99e071addb819346e2cc93dcc": {
+            "format": "jpg",
+            "id": "a84bb4f99e071addb819346e2cc93dcc",
+            "name": "00001407.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001407.jpg",
+            "size": {
+                "width": 660,
+                "height": 450
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c03e7662b017effddff22a1d5b24ab2d": {
+            "format": "jpg",
+            "id": "c03e7662b017effddff22a1d5b24ab2d",
+            "name": "00001406.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001406.jpg",
+            "size": {
+                "width": 2941,
+                "height": 2000
+            },
+            "state": 2,
+            "type": 1
+        },
+        "07b3ef830a8295a325330e6b0fcb404b": {
+            "format": "jpg",
+            "id": "07b3ef830a8295a325330e6b0fcb404b",
+            "name": "00001402.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001402.jpg",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 1,
+            "type": 1
+        },
+        "66027d42c59d2d64401d3b287d52991f": {
+            "format": "jpg",
+            "id": "66027d42c59d2d64401d3b287d52991f",
+            "name": "00001399.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001399.jpg",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ef4b59797ee085c2f001df669498de80": {
+            "format": "jpg",
+            "id": "ef4b59797ee085c2f001df669498de80",
+            "name": "00001397.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001397.jpg",
+            "size": {
+                "width": 5339,
+                "height": 3499
+            },
+            "state": 2,
+            "type": 1
+        },
+        "dce42685cd7e2b986aef5d2ed99cb471": {
+            "format": "jpg",
+            "id": "dce42685cd7e2b986aef5d2ed99cb471",
+            "name": "00001395.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001395.jpg",
+            "size": {
+                "width": 800,
+                "height": 533
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e1a1f79a2bafda4fb6de4975009ae515": {
+            "format": "jpg",
+            "id": "e1a1f79a2bafda4fb6de4975009ae515",
+            "name": "00001394.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001394.jpg",
+            "size": {
+                "width": 750,
+                "height": 375
+            },
+            "state": 1,
+            "type": 1
+        },
+        "01dc21e9721a4c49ac48bf1435ec070b": {
+            "format": "jpg",
+            "id": "01dc21e9721a4c49ac48bf1435ec070b",
+            "name": "00001393.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001393.jpg",
+            "size": {
+                "width": 1200,
+                "height": 900
+            },
+            "state": 1,
+            "type": 1
+        },
+        "6edc3d87876a4b808f55bf5ec844c613": {
+            "format": "jpg",
+            "id": "6edc3d87876a4b808f55bf5ec844c613",
+            "name": "00001392.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001392.jpg",
+            "size": {
+                "width": 1200,
+                "height": 900
+            },
+            "state": 1,
+            "type": 1
+        },
+        "648df672b5a7e1f6f442773315a1a7d8": {
+            "format": "jpg",
+            "id": "648df672b5a7e1f6f442773315a1a7d8",
+            "name": "00001390.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001390.jpg",
+            "size": {
+                "width": 3008,
+                "height": 2000
+            },
+            "state": 1,
+            "type": 1
+        },
+        "56b66265c7efaf42f1812c2d64c11b46": {
+            "format": "jpg",
+            "id": "56b66265c7efaf42f1812c2d64c11b46",
+            "name": "00001387.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001387.jpg",
+            "size": {
+                "width": 717,
+                "height": 478
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ef5841ece3e027173689f116889ccb46": {
+            "format": "jpg",
+            "id": "ef5841ece3e027173689f116889ccb46",
+            "name": "00001386.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001386.jpg",
+            "size": {
+                "width": 696,
+                "height": 392
+            },
+            "state": 2,
+            "type": 1
+        },
+        "790daa1d8c4ecc9d3caf53be9c98b694": {
+            "format": "jpg",
+            "id": "790daa1d8c4ecc9d3caf53be9c98b694",
+            "name": "00001385.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001385.jpg",
+            "size": {
+                "width": 1200,
+                "height": 800
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f6a6cf0dbb427383cf66dbfce660efbc": {
+            "format": "jpg",
+            "id": "f6a6cf0dbb427383cf66dbfce660efbc",
+            "name": "00001384.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001384.jpg",
+            "size": {
+                "width": 1500,
+                "height": 1000
+            },
+            "state": 2,
+            "type": 1
+        },
+        "cd96d998b1312b368386d8bbbff24df2": {
+            "format": "PNG",
+            "id": "cd96d998b1312b368386d8bbbff24df2",
+            "name": "00001383.PNG",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001383.PNG",
+            "size": {
+                "width": 600,
+                "height": 338
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a248587950f448dbce2af8fc04a4ee1b": {
+            "format": "jpg",
+            "id": "a248587950f448dbce2af8fc04a4ee1b",
+            "name": "00001382.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001382.jpg",
+            "size": {
+                "width": 1920,
+                "height": 972
+            },
+            "state": 1,
+            "type": 1
+        },
+        "b9a522c3f25000d5a8f17e02a2cd61cb": {
+            "format": "jpeg",
+            "id": "b9a522c3f25000d5a8f17e02a2cd61cb",
+            "name": "00001381.jpeg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001381.jpeg",
+            "size": {
+                "width": 749,
+                "height": 506
+            },
+            "state": 2,
+            "type": 1
+        },
+        "cfa09e405da5405670b3b69f6d8fe00d": {
+            "format": "jpg",
+            "id": "cfa09e405da5405670b3b69f6d8fe00d",
+            "name": "00001378.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001378.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 1,
+            "type": 1
+        },
+        "d5d987f2380ec1598021d1121e226be5": {
+            "format": "jpg",
+            "id": "d5d987f2380ec1598021d1121e226be5",
+            "name": "00001377.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001377.jpg",
+            "size": {
+                "width": 700,
+                "height": 420
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3afb7d797958f2353f610052e70814e0": {
+            "format": "jpg",
+            "id": "3afb7d797958f2353f610052e70814e0",
+            "name": "00001376.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001376.jpg",
+            "size": {
+                "width": 264,
+                "height": 300
+            },
+            "state": 1,
+            "type": 1
+        },
+        "7e03fffba0cd97fa045ed21b97102559": {
+            "format": "jpg",
+            "id": "7e03fffba0cd97fa045ed21b97102559",
+            "name": "00001375.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001375.jpg",
+            "size": {
+                "width": 355,
+                "height": 271
+            },
+            "state": 1,
+            "type": 1
+        },
+        "f0b87a1c63192e23761cbb601fe55946": {
+            "format": "jpg",
+            "id": "f0b87a1c63192e23761cbb601fe55946",
+            "name": "00001374.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001374.jpg",
+            "size": {
+                "width": 900,
+                "height": 600
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6bbaf8e36c5b417e3d73cf566e77b9b5": {
+            "format": "jpg",
+            "id": "6bbaf8e36c5b417e3d73cf566e77b9b5",
+            "name": "00001369.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001369.jpg",
+            "size": {
+                "width": 300,
+                "height": 195
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d77427b3cc00d910c07a1a34169fce50": {
+            "format": "jpg",
+            "id": "d77427b3cc00d910c07a1a34169fce50",
+            "name": "00001366.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001366.jpg",
+            "size": {
+                "width": 800,
+                "height": 450
+            },
+            "state": 2,
+            "type": 1
+        },
+        "498a2ee3afd3a36d1397a128867e7bb4": {
+            "format": "jpg",
+            "id": "498a2ee3afd3a36d1397a128867e7bb4",
+            "name": "00001364.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001364.jpg",
+            "size": {
+                "width": 660,
+                "height": 440
+            },
+            "state": 2,
+            "type": 1
+        },
+        "73ff08765fae393201a5f5077f36e34a": {
+            "format": "jpg",
+            "id": "73ff08765fae393201a5f5077f36e34a",
+            "name": "00001362.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001362.jpg",
+            "size": {
+                "width": 480,
+                "height": 360
+            },
+            "state": 1,
+            "type": 1
+        },
+        "209ef9859d5bfb32bc974f0ed4c485e1": {
+            "format": "jpg",
+            "id": "209ef9859d5bfb32bc974f0ed4c485e1",
+            "name": "00001359.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001359.jpg",
+            "size": {
+                "width": 1020,
+                "height": 680
+            },
+            "state": 1,
+            "type": 1
+        },
+        "6bc1066a7eaa62df492d10e1ced49bdf": {
+            "format": "jpg",
+            "id": "6bc1066a7eaa62df492d10e1ced49bdf",
+            "name": "00001357.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001357.jpg",
+            "size": {
+                "width": 460,
+                "height": 259
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3f0f1ef1c0071c77416f1e9009e258b8": {
+            "format": "jpg",
+            "id": "3f0f1ef1c0071c77416f1e9009e258b8",
+            "name": "00001355.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001355.jpg",
+            "size": {
+                "width": 634,
+                "height": 599
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c60003a2a240275f473583fe51f51c6e": {
+            "format": "jpg",
+            "id": "c60003a2a240275f473583fe51f51c6e",
+            "name": "00001352.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001352.jpg",
+            "size": {
+                "width": 1200,
+                "height": 872
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0d4f7dbc0fbeddcab89bd5ef772b06b0": {
+            "format": "png",
+            "id": "0d4f7dbc0fbeddcab89bd5ef772b06b0",
+            "name": "00001350.png",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001350.png",
+            "size": {
+                "width": 1200,
+                "height": 547
+            },
+            "state": 2,
+            "type": 1
+        },
+        "93ec3f633d3e3cf4e4aee4a0b858d4f7": {
+            "format": "jpg",
+            "id": "93ec3f633d3e3cf4e4aee4a0b858d4f7",
+            "name": "00001345.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001345.jpg",
+            "size": {
+                "width": 600,
+                "height": 337
+            },
+            "state": 2,
+            "type": 1
+        },
+        "df382ac412ca70fc1c8e6e09830cd03f": {
+            "format": "jpg",
+            "id": "df382ac412ca70fc1c8e6e09830cd03f",
+            "name": "00001342.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001342.jpg",
+            "size": {
+                "width": 1364,
+                "height": 768
+            },
+            "state": 1,
+            "type": 1
+        },
+        "2d9562721aa0d1fb2de6601eabf8f14b": {
+            "format": "jpg",
+            "id": "2d9562721aa0d1fb2de6601eabf8f14b",
+            "name": "00001340.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001340.jpg",
+            "size": {
+                "width": 612,
+                "height": 408
+            },
+            "state": 2,
+            "type": 1
+        },
+        "26d685bb0d45b209a05a739c319131d8": {
+            "format": "jpg",
+            "id": "26d685bb0d45b209a05a739c319131d8",
+            "name": "00001335.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001335.jpg",
+            "size": {
+                "width": 1137,
+                "height": 733
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c7ee1348326103761fe2004d52c1c4dc": {
+            "format": "jpg",
+            "id": "c7ee1348326103761fe2004d52c1c4dc",
+            "name": "00001334.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001334.jpg",
+            "size": {
+                "width": 1200,
+                "height": 1400
+            },
+            "state": 1,
+            "type": 1
+        },
+        "6181a5e3c3ac8467f3dc082697e00269": {
+            "format": "jpg",
+            "id": "6181a5e3c3ac8467f3dc082697e00269",
+            "name": "00001333.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001333.jpg",
+            "size": {
+                "width": 2200,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "557b25ad53ef85dce81171b7d70f63ae": {
+            "format": "jpg",
+            "id": "557b25ad53ef85dce81171b7d70f63ae",
+            "name": "00001332.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001332.jpg",
+            "size": {
+                "width": 800,
+                "height": 1200
+            },
+            "state": 2,
+            "type": 1
+        },
+        "bfdb6862a4e4883516f502040d12dab1": {
+            "format": "jpg",
+            "id": "bfdb6862a4e4883516f502040d12dab1",
+            "name": "00001329.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001329.jpg",
+            "size": {
+                "width": 700,
+                "height": 420
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1029698bedca4681ac4350241ff2df4e": {
+            "format": "jpg",
+            "id": "1029698bedca4681ac4350241ff2df4e",
+            "name": "00001326.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001326.jpg",
+            "size": {
+                "width": 300,
+                "height": 225
+            },
+            "state": 1,
+            "type": 1
+        },
+        "e2baa380a7529e1b7b0c02e37a5be835": {
+            "format": "jpg",
+            "id": "e2baa380a7529e1b7b0c02e37a5be835",
+            "name": "00001325.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001325.jpg",
+            "size": {
+                "width": 354,
+                "height": 228
+            },
+            "state": 1,
+            "type": 1
+        },
+        "f1030e11e796f3fbfd238a23f9cb5281": {
+            "format": "jpg",
+            "id": "f1030e11e796f3fbfd238a23f9cb5281",
+            "name": "00001321.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001321.jpg",
+            "size": {
+                "width": 940,
+                "height": 603
+            },
+            "state": 2,
+            "type": 1
+        },
+        "847933fe4caffea97843eee27e23353f": {
+            "format": "jpg",
+            "id": "847933fe4caffea97843eee27e23353f",
+            "name": "00001320.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001320.jpg",
+            "size": {
+                "width": 474,
+                "height": 329
+            },
+            "state": 1,
+            "type": 1
+        },
+        "808d1730819bd40cbf376dc0deb24e9b": {
+            "format": "jpg",
+            "id": "808d1730819bd40cbf376dc0deb24e9b",
+            "name": "00001319.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001319.jpg",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6e9167e1e67dab22bf604b711310af45": {
+            "format": "jpg",
+            "id": "6e9167e1e67dab22bf604b711310af45",
+            "name": "00001318.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001318.jpg",
+            "size": {
+                "width": 350,
+                "height": 210
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e7c5495bd56db9fd661890ffba5a0ce8": {
+            "format": "jpg",
+            "id": "e7c5495bd56db9fd661890ffba5a0ce8",
+            "name": "00001317.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001317.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1017
+            },
+            "state": 2,
+            "type": 1
+        },
+        "795d0d0bee5edb1986185cef9622848f": {
+            "format": "jpg",
+            "id": "795d0d0bee5edb1986185cef9622848f",
+            "name": "00001314.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001314.jpg",
+            "size": {
+                "width": 800,
+                "height": 450
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7fb910bf7052973b0ff0944ebe1f6672": {
+            "format": "jpg",
+            "id": "7fb910bf7052973b0ff0944ebe1f6672",
+            "name": "00001313.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001313.jpg",
+            "size": {
+                "width": 660,
+                "height": 371
+            },
+            "state": 1,
+            "type": 1
+        },
+        "854f1b301c7e0d8341bb52c6339f9f49": {
+            "format": "jpg",
+            "id": "854f1b301c7e0d8341bb52c6339f9f49",
+            "name": "00001312.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001312.jpg",
+            "size": {
+                "width": 827,
+                "height": 514
+            },
+            "state": 1,
+            "type": 1
+        },
+        "22b86de43930640a287c867d956b0442": {
+            "format": "jpg",
+            "id": "22b86de43930640a287c867d956b0442",
+            "name": "00001311.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001311.jpg",
+            "size": {
+                "width": 626,
+                "height": 403
+            },
+            "state": 1,
+            "type": 1
+        },
+        "60e6469e2c8a2669aaa6181e6e10c9d4": {
+            "format": "jpeg",
+            "id": "60e6469e2c8a2669aaa6181e6e10c9d4",
+            "name": "00001310.jpeg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001310.jpeg",
+            "size": {
+                "width": 749,
+                "height": 506
+            },
+            "state": 1,
+            "type": 1
+        },
+        "b5e1296d17efa70bf880917f1d764a43": {
+            "format": "jpg",
+            "id": "b5e1296d17efa70bf880917f1d764a43",
+            "name": "00001309.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001309.jpg",
+            "size": {
+                "width": 640,
+                "height": 444
+            },
+            "state": 1,
+            "type": 1
+        },
+        "9c811da59164741b9cb0bbb641435f30": {
+            "format": "jpg",
+            "id": "9c811da59164741b9cb0bbb641435f30",
+            "name": "00001308.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001308.jpg",
+            "size": {
+                "width": 880,
+                "height": 660
+            },
+            "state": 1,
+            "type": 1
+        },
+        "2b3273880a79b6952ab1ed274ac2e080": {
+            "format": "jpg",
+            "id": "2b3273880a79b6952ab1ed274ac2e080",
+            "name": "00001307.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001307.jpg",
+            "size": {
+                "width": 620,
+                "height": 464
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4771cf048e7c4c26af3cd1c324e12f2e": {
+            "format": "jpg",
+            "id": "4771cf048e7c4c26af3cd1c324e12f2e",
+            "name": "00001306.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001306.jpg",
+            "size": {
+                "width": 1022,
+                "height": 575
+            },
+            "state": 2,
+            "type": 1
+        },
+        "38c2bc210b57b9f482af600a0e94dd97": {
+            "format": "JPG",
+            "id": "38c2bc210b57b9f482af600a0e94dd97",
+            "name": "00001302.JPG",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001302.JPG",
+            "size": {
+                "width": 640,
+                "height": 461
+            },
+            "state": 2,
+            "type": 1
+        },
+        "05e0c9cf664dca8dd7b751fee483053f": {
+            "format": "jpg",
+            "id": "05e0c9cf664dca8dd7b751fee483053f",
+            "name": "00001299.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001299.jpg",
+            "size": {
+                "width": 736,
+                "height": 414
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d559da86473e0c7611fa86f276cd8a1a": {
+            "format": "jpg",
+            "id": "d559da86473e0c7611fa86f276cd8a1a",
+            "name": "00001296.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001296.jpg",
+            "size": {
+                "width": 1024,
+                "height": 576
+            },
+            "state": 1,
+            "type": 1
+        },
+        "a06814cfa17e8cd8cc06d0c07458b88c": {
+            "format": "jpg",
+            "id": "a06814cfa17e8cd8cc06d0c07458b88c",
+            "name": "00001294.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001294.jpg",
+            "size": {
+                "width": 1200,
+                "height": 630
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5d768f2646423a9e971f5f4c9c4d5063": {
+            "format": "png",
+            "id": "5d768f2646423a9e971f5f4c9c4d5063",
+            "name": "00001293.png",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001293.png",
+            "size": {
+                "width": 647,
+                "height": 363
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7e4a7252c343f7d414e036fd5c1242b2": {
+            "format": "jpg",
+            "id": "7e4a7252c343f7d414e036fd5c1242b2",
+            "name": "00001292.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001292.jpg",
+            "size": {
+                "width": 1755,
+                "height": 1170
+            },
+            "state": 1,
+            "type": 1
+        },
+        "35ab101c988f86ae986312adb2cb5967": {
+            "format": "jpg",
+            "id": "35ab101c988f86ae986312adb2cb5967",
+            "name": "00001290.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001290.jpg",
+            "size": {
+                "width": 1750,
+                "height": 1050
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e27301ecea58c2f2c13a89b8b4fdebc0": {
+            "format": "jpg",
+            "id": "e27301ecea58c2f2c13a89b8b4fdebc0",
+            "name": "00001289.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001289.jpg",
+            "size": {
+                "width": 640,
+                "height": 440
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ec174599c60ecedbebd7b0ea8fa213ca": {
+            "format": "jpg",
+            "id": "ec174599c60ecedbebd7b0ea8fa213ca",
+            "name": "00001288.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001288.jpg",
+            "size": {
+                "width": 900,
+                "height": 400
+            },
+            "state": 2,
+            "type": 1
+        },
+        "542d65242832c9dbe1b15889c8be0f99": {
+            "format": "jpg",
+            "id": "542d65242832c9dbe1b15889c8be0f99",
+            "name": "00001285.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001285.jpg",
+            "size": {
+                "width": 1200,
+                "height": 630
+            },
+            "state": 1,
+            "type": 1
+        },
+        "28a76b0b8f1ed98298e48e7a40f18c46": {
+            "format": "jpg",
+            "id": "28a76b0b8f1ed98298e48e7a40f18c46",
+            "name": "00001284.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001284.jpg",
+            "size": {
+                "width": 875,
+                "height": 583
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a1e84008f5ad02fae05801b52d762eb3": {
+            "format": "jpg",
+            "id": "a1e84008f5ad02fae05801b52d762eb3",
+            "name": "00001283.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001283.jpg",
+            "size": {
+                "width": 1000,
+                "height": 688
+            },
+            "state": 1,
+            "type": 1
+        },
+        "36cbc003709f21fdf8332c4bb3db8939": {
+            "format": "jpg",
+            "id": "36cbc003709f21fdf8332c4bb3db8939",
+            "name": "00001282.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001282.jpg",
+            "size": {
+                "width": 1170,
+                "height": 716
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1ab3e8ff08b6bf9f8d5fbd1cf60e7bdc": {
+            "format": "jpg",
+            "id": "1ab3e8ff08b6bf9f8d5fbd1cf60e7bdc",
+            "name": "00001281.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001281.jpg",
+            "size": {
+                "width": 850,
+                "height": 503
+            },
+            "state": 1,
+            "type": 1
+        },
+        "67a48016542b73bb3f1883ed1c76c29c": {
+            "format": "jpg",
+            "id": "67a48016542b73bb3f1883ed1c76c29c",
+            "name": "00001278.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001278.jpg",
+            "size": {
+                "width": 800,
+                "height": 535
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2a9370cb9c7ad67729e70fdb1b6386be": {
+            "format": "jpg",
+            "id": "2a9370cb9c7ad67729e70fdb1b6386be",
+            "name": "00001277.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001277.jpg",
+            "size": {
+                "width": 612,
+                "height": 389
+            },
+            "state": 1,
+            "type": 1
+        },
+        "93ea9db926ab455369c0722c436d1578": {
+            "format": "jpg",
+            "id": "93ea9db926ab455369c0722c436d1578",
+            "name": "00001276.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001276.jpg",
+            "size": {
+                "width": 1160,
+                "height": 637
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1ffc13ce14ad2ce2a0f7eac139559928": {
+            "format": "jpg",
+            "id": "1ffc13ce14ad2ce2a0f7eac139559928",
+            "name": "00001274.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001274.jpg",
+            "size": {
+                "width": 640,
+                "height": 480
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d01f88568c7d44281aa5e2a9ce2ead6b": {
+            "format": "jpg",
+            "id": "d01f88568c7d44281aa5e2a9ce2ead6b",
+            "name": "00001270.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001270.jpg",
+            "size": {
+                "width": 600,
+                "height": 338
+            },
+            "state": 1,
+            "type": 1
+        },
+        "bb26cc4db8ed28c9e389b8abce51ab36": {
+            "format": "jpg",
+            "id": "bb26cc4db8ed28c9e389b8abce51ab36",
+            "name": "00001269.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001269.jpg",
+            "size": {
+                "width": 1295,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4f69435623931973073c0cfcc02c3a1e": {
+            "format": "jpg",
+            "id": "4f69435623931973073c0cfcc02c3a1e",
+            "name": "00001268.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001268.jpg",
+            "size": {
+                "width": 750,
+                "height": 472
+            },
+            "state": 1,
+            "type": 1
+        },
+        "429072454e0b46c5454dd585a39cf520": {
+            "format": "jpg",
+            "id": "429072454e0b46c5454dd585a39cf520",
+            "name": "00001267.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001267.jpg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 1,
+            "type": 1
+        },
+        "df745c34d06b79bdde3b84ea6d0ebbcd": {
+            "format": "jpg",
+            "id": "df745c34d06b79bdde3b84ea6d0ebbcd",
+            "name": "00001266.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001266.jpg",
+            "size": {
+                "width": 1050,
+                "height": 750
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5df82bbd55dae50ae5148fb5c0484d13": {
+            "format": "jpg",
+            "id": "5df82bbd55dae50ae5148fb5c0484d13",
+            "name": "00001263.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001263.jpg",
+            "size": {
+                "width": 940,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "fe684243b701fd9fd0b5d0cdf70caf52": {
+            "format": "jpg",
+            "id": "fe684243b701fd9fd0b5d0cdf70caf52",
+            "name": "00001262.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001262.jpg",
+            "size": {
+                "width": 568,
+                "height": 380
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6d48c6cce927bdde9265c30f6155ae5c": {
+            "format": "jpg",
+            "id": "6d48c6cce927bdde9265c30f6155ae5c",
+            "name": "00001259.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001259.jpg",
+            "size": {
+                "width": 1020,
+                "height": 649
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f0cb9c49cdfb376fffa8343db679dfa6": {
+            "format": "jpg",
+            "id": "f0cb9c49cdfb376fffa8343db679dfa6",
+            "name": "00001258.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001258.jpg",
+            "size": {
+                "width": 986,
+                "height": 555
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8d54f387d591ec12fb623215dda4b506": {
+            "format": "jpg",
+            "id": "8d54f387d591ec12fb623215dda4b506",
+            "name": "00001257.jpg",
+            "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-master/Data/Source_Images/Training_Images/00001257.jpg",
+            "size": {
+                "width": 5077,
+                "height": 3359
+            },
+            "state": 1,
+            "type": 1
+        }
+    }
+}
