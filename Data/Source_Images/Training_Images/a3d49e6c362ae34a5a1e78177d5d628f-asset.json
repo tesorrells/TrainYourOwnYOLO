@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "a3d49e6c362ae34a5a1e78177d5d628f",
+        "name": "00001473.jpg",
+        "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-branch/Data/Source_Images/Training_Images/00001473.jpg",
+        "size": {
+            "width": 640,
+            "height": 347
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "JruuPlL27",
+            "type": "RECTANGLE",
+            "tags": [
+                "Helicopter"
+            ],
+            "boundingBox": {
+                "height": 211.37559580552906,
+                "width": 520.8686659772492,
+                "left": 89.01758014477767,
+                "top": 59.97141622974261
+            },
+            "points": [
+                {
+                    "x": 89.01758014477767,
+                    "y": 59.97141622974261
+                },
+                {
+                    "x": 609.8862461220269,
+                    "y": 59.97141622974261
+                },
+                {
+                    "x": 609.8862461220269,
+                    "y": 271.3470120352717
+                },
+                {
+                    "x": 89.01758014477767,
+                    "y": 271.3470120352717
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

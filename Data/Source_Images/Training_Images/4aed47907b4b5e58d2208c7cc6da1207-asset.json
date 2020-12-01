@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "4aed47907b4b5e58d2208c7cc6da1207",
+        "name": "00000909.jpg",
+        "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-branch/Data/Source_Images/Training_Images/00000909.jpg",
+        "size": {
+            "width": 5000,
+            "height": 3328
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "SAoTdsy2z",
+            "type": "RECTANGLE",
+            "tags": [
+                "Airliner"
+            ],
+            "boundingBox": {
+                "height": 1482.5669781931463,
+                "width": 4134.26645930534,
+                "left": 773.8384525660964,
+                "top": 1070.454828660436
+            },
+            "points": [
+                {
+                    "x": 773.8384525660964,
+                    "y": 1070.454828660436
+                },
+                {
+                    "x": 4908.104911871435,
+                    "y": 1070.454828660436
+                },
+                {
+                    "x": 4908.104911871435,
+                    "y": 2553.0218068535823
+                },
+                {
+                    "x": 773.8384525660964,
+                    "y": 2553.0218068535823
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

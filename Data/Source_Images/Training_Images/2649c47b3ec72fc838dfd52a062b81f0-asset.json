@@ -1,0 +1,79 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "2649c47b3ec72fc838dfd52a062b81f0",
+        "name": "00001397.jpg",
+        "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-branch/Data/Source_Images/Training_Images/00001397.jpg",
+        "size": {
+            "width": 5339,
+            "height": 3499
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "CVryEmVrw",
+            "type": "RECTANGLE",
+            "tags": [
+                "Helicopter"
+            ],
+            "boundingBox": {
+                "height": 1110.1799526440411,
+                "width": 2490.06101344364,
+                "left": 0,
+                "top": 827.802091554854
+            },
+            "points": [
+                {
+                    "x": 0,
+                    "y": 827.802091554854
+                },
+                {
+                    "x": 2490.06101344364,
+                    "y": 827.802091554854
+                },
+                {
+                    "x": 2490.06101344364,
+                    "y": 1937.9820441988952
+                },
+                {
+                    "x": 0,
+                    "y": 1937.9820441988952
+                }
+            ]
+        },
+        {
+            "id": "assQwM00U",
+            "type": "RECTANGLE",
+            "tags": [
+                "Helicopter"
+            ],
+            "boundingBox": {
+                "height": 1077.0402525651145,
+                "width": 1728.1354705274043,
+                "left": 3610.8645294725957,
+                "top": 570.9694159431729
+            },
+            "points": [
+                {
+                    "x": 3610.8645294725957,
+                    "y": 570.9694159431729
+                },
+                {
+                    "x": 5339,
+                    "y": 570.9694159431729
+                },
+                {
+                    "x": 5339,
+                    "y": 1648.0096685082874
+                },
+                {
+                    "x": 3610.8645294725957,
+                    "y": 1648.0096685082874
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

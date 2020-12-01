@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "3df29e8731bf5f3861a309a8c4d03f75",
+        "name": "00000007%20(2).jpg",
+        "path": "file:C:/Users/trevo/PycharmProjects/TrainYourOwnYOLO-branch/Data/Source_Images/Training_Images/00000007%20(2).jpg",
+        "size": {
+            "width": 800,
+            "height": 450
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "ZzcEkWpqw",
+            "type": "RECTANGLE",
+            "tags": [
+                "Fighter"
+            ],
+            "boundingBox": {
+                "height": 278.1887755102041,
+                "width": 791.5829746532759,
+                "left": 1.530368244858919,
+                "top": 3.097098214285714
+            },
+            "points": [
+                {
+                    "x": 1.530368244858919,
+                    "y": 3.097098214285714
+                },
+                {
+                    "x": 793.1133428981349,
+                    "y": 3.097098214285714
+                },
+                {
+                    "x": 793.1133428981349,
+                    "y": 281.28587372448976
+                },
+                {
+                    "x": 1.530368244858919,
+                    "y": 281.28587372448976
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}
